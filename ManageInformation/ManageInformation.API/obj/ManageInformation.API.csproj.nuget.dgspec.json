@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.API\\ManageInformation.API.csproj": {}
+    "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.API\\ManageInformation.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.API\\ManageInformation.API.csproj": {
+    "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.API\\ManageInformation.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.API\\ManageInformation.API.csproj",
+        "projectUniqueName": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.API\\ManageInformation.API.csproj",
         "projectName": "ManageInformation.API",
-        "projectPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.API\\ManageInformation.API.csproj",
-        "packagesPath": "C:\\Users\\echap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.API\\obj\\",
+        "projectPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.API\\ManageInformation.API.csproj",
+        "packagesPath": "C:\\Users\\Полина\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\echap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Полина\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj": {
-                "projectPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj"
+              "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj": {
+                "projectPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj"
               },
-              "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj"
+              "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj"
               }
             }
           }
@@ -49,17 +49,21 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -72,7 +76,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,21 +89,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj": {
+    "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj",
         "projectName": "ManageInformation.Domain",
-        "projectPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj",
-        "packagesPath": "C:\\Users\\echap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj",
+        "packagesPath": "C:\\Users\\Полина\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\echap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Полина\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -129,7 +134,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -138,21 +144,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj": {
+    "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj",
         "projectName": "ManageInformation.Infrastructure",
-        "projectPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\echap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Infrastructure\\ManageInformation.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Полина\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\echap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Полина\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,8 +172,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj": {
-                "projectPath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj"
+              "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj": {
+                "projectPath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj"
               }
             }
           }
@@ -184,17 +190,21 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.13, )"
+              "version": "[6.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -203,7 +213,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -212,7 +223,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
