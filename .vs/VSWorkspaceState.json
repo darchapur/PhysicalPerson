@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ManageInformation",
+    "\\ManageInformation\\ManageInformation.Domain",
+    "\\ManageInformation\\ManageInformation.Domain\\Model",
+    "\\ManageInformation\\ManageInformation.Infrastructure",
+    "\\ManageInformation\\ManageInformation.Infrastructure\\Data"
+  ],
+  "SelectedNode": "\\ManageInformation\\ManageInformation.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mHO0U5hpSyoRDco9ajTOme6JNnAKsnmLTW9OWX9vCyGAfXSHb72FYnlGkNzcTjdY2ifwuDOOGvXk62L+efRZ8w==",
+  "dgSpecHash": "5c3lJKcUr9lvlhp29hvjw/tAohZhBJ/oROvslkT4wb2CdI3lHnr53ABQNkaAnkT3iEGmilEq5ZXHi03MPhBMWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\echap\\source\\repos\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Полина\\Source\\Repos\\darchapur\\PhysicalPerson\\ManageInformation\\ManageInformation.Domain\\ManageInformation.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
